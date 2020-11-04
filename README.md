@@ -1,6 +1,6 @@
 # vue3-components 
 
-See [Live Demo](https://cli.vuejs.org/config/).
+See [Live Demo](https://yankfy.github.io/vue3-components/).
 
 ## Project setup
 ```
